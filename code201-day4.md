@@ -1,0 +1,3 @@
+# Learning Journal Code 201 - Day 4
+
+Today's lab was a really new experience for me. In the programming classes I took in college, they had a very strict no collaboration / no cheating policy, so pair-programming on a single file was definitely a new concept to me. Still, doing it today made it clear to me that there are so many different ways to solve a problem and with the little knowledge I have now, it doesn't seem like there is a true "correct" way to solve a problem. Working with Thomas today was really enjoyable -- he's a cool guy and I think we both learned a lot from each other. I'm looking forward to pair programming in the future, with Thomas or anybody else in the class.
