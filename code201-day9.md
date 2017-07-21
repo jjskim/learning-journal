@@ -1,0 +1,3 @@
+# Learning Journal Code 201 - Day 9
+
+Today was a pretty relaxed compared to the previous labs. Still, since I'm still so new to HTML and CSS, figuring out how to make my elements look and position themselves the way I want is still a process, but it's slowly improving. This week we've learned a lot of new things I haven't done before - things like putting elements to the DOM via JavaScript and adding event handlers to make our pages more dynamic. I'm sure these are two very basic things that many developers learn in their first few weeks or months, but I'm excited to learn more in the coming weeks about how to make our pages or applications more dynamic and engaging.
