@@ -1,0 +1,3 @@
+# Learning Journal Code 201 - Day 10
+
+Friday was just another catch-up day for us to finish our salmon cookie projects and to work on the HTML/CSS lab. It was a pretty relaxed day, but making the webpage for chocolate pizza was pretty frustrating and time-consuming. I'm still learning CSS so I have to look up what I'm actually allowed to do with certain CSS rules, and I'm also in the process of learning what will happen to other elements on the page when I change something. I think my main problem with CSS is that to troubleshoot or debug CSS, you have to just guess and check different things to see if it works -- you can't really debug it the same way you can with JavaScript. 
