@@ -1,0 +1,3 @@
+# Learning Journal Code 201 - Day 13
+
+Friday was the first day of meeting our groups for the final project. I learned that my group was only a group of three, but I have confidence in my partners that we can still make a worthwhile project. Our idea so far is to make a battleship game that will let the user play against the computer, and if we have time for it, add difficulty levels where the computer will use different strategies to find all the battleships. I think the hardest part will be the implementation of the guessing algorithms we have in mind, but I think if we get it right it could be very cool. I'm eager to get started on it this Monday.
